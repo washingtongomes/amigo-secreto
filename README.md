@@ -2,8 +2,8 @@
   <img src= "https://avatars.githubusercontent.com/u/68349833?v=4">
 </div>
 
-
-<h1 align= "center"> Jogo do número secreto</h1>
+<h1 align= "center"> Projeto </h1>
+<h1 align= "center"> *** AMIGO - SECRETO *** </h1>
 
 <h2 align= "center" > Sobre</h2>
 <p align= "center">Projeto utilizado nos cursos de lógica de programação da Alura.</p>
