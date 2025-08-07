@@ -15,3 +15,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+[Acesse o projeto no GitHub](https://github.com/washingtongomes/amigo-secreto/)
+[Amigo Secreto Web](https://amigo-secreto-eosin-three.vercel.app/)
