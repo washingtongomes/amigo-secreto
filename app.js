@@ -30,6 +30,8 @@
 
     function sortearAmigo() {
         const resultado = document.getElementById('resultado');
+        const destaque = document.getElementById('nomeDestacado');
+
       
         // Verifica se há amigos cadastrados
         if (amigos.length === 0) {
@@ -44,6 +46,9 @@
         const nomeSorteado = amigos[indiceAleatorio];
       
         // Exibe o resultado
-        resultado.innerHTML = `Amigo sorteado: <strong>${nomeSorteado}</strong>`;
+        resultado.innerHTML = ` <strong style = "font-size: 30px">${nomeSorteado}</strong>`;
+        destaque.innerHTML = ` Amigo sorteado: <span style = "color: blue"> 🎉 ${resultado.innerHTML}</span>  🎉`;
+
+ 
       }
       

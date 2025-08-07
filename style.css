@@ -122,7 +122,10 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: #e55720;
+    font-size: 16px;
+    color: var(--color-white);
+    font-weight: bold;
 }
 
 /* Listas */
@@ -160,3 +163,31 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/*Adicionando H3 destaque */
+
+
+/*footer*/
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    box-sizing: border-box;
+  }
+
+  .span-footer{
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  footer img {
+    height: 40px;
+    max-width: 150px;
+  }
